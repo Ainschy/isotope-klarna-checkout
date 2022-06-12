@@ -15,9 +15,9 @@
     "source": "https://github.com/richardhj/isotope-klarna-checkout"
   },
   "require": {
-    "php": ">=7.4",
+    "php": ">=7.4 || ^8.0",
     "ext-json": "*",
-    "contao/core-bundle": "^4.9",
+    "contao/core-bundle": "^4.13",
     "doctrine/dbal": "^2.0",
     "isotope/isotope-core": "^2.6",
     "symfony/dependency-injection": "^4.4 || ^5.0",
